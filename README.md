@@ -6,7 +6,7 @@ Flutter Tüm  Login İşlemleri ve Firebase
 
 Projeyi kendi dizininize çektikten sonra tüm proje kapsamında com.login.flutter yazan tüm dosyalardaki değeri tek seferde değiştirmek için. Android Studio ile projeyi açın.
 
-Ardından Sol tarafta bulunan proje ağacının en tepesindeki flutterlogin dizinine sağ tıklayarak Replace in Path.. seçeneğine tıklayın. Açılan ekranda com.login.flutter yazan yere kendi proje bilginizi verin. ( bu kısım firebase entegrasyonu için önemlidir. )
+Ardından Sol tarafta bulunan proje ağacının en tepesindeki flutterlogin dizinine sağ tıklayarak Replace in Path.. seçeneğine tıklayın. Açılan ekranda com.login.flutter yazan yerleri kendi proje bilgileriniz ile değiştirecek değerleri girin ve Replace All butonuna basın. ( bu kısım firebase entegrasyonu için önemlidir. )
 
 Daha sonra Firebase ile bir proje oluşturun, https://console.firebase.google.com/
 
