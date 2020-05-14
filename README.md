@@ -19,7 +19,7 @@ IOS için ios/Runner klasörünün altına kopyalayın.
 Konsola:
 flutter pub get
 
-işlemini yaptıktan sonra. projeyi emülatörünüzde Run diyerek başlatabilirsiniz.
+yazıp işlemini yaptıktan sonra. projeyi emülatörünüzde Run diyerek başlatabilirsiniz.
 
 İlk Build işlemi paketler yükleneceği için biraz uzun sürebilir.
 
